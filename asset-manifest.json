@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.b3029b0e.chunk.css",
+    "main.css": "./static/css/main.4e239230.chunk.css",
     "main.js": "./static/js/main.d8a64202.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.507f4c7c.js",
     "static/css/2.b5a80ab8.chunk.css": "./static/css/2.b5a80ab8.chunk.css",
     "static/js/2.645ba404.chunk.js": "./static/js/2.645ba404.chunk.js",
     "index.html": "./index.html",
-    "static/js/2.645ba404.chunk.js.LICENSE.txt": "./static/js/2.645ba404.chunk.js.LICENSE.txt"
+    "static/js/2.645ba404.chunk.js.LICENSE.txt": "./static/js/2.645ba404.chunk.js.LICENSE.txt",
+    "static/media/App.less": "./static/media/bread.95a68f9b.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.507f4c7c.js",
     "static/css/2.b5a80ab8.chunk.css",
     "static/js/2.645ba404.chunk.js",
-    "static/css/main.b3029b0e.chunk.css",
+    "static/css/main.4e239230.chunk.css",
     "static/js/main.d8a64202.chunk.js"
   ]
 }
